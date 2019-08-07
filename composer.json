@@ -1,0 +1,31 @@
+{
+	"name": "datareporter/webcare",
+	"description": "Include the WebCare tools for GDPR compliance",
+	"type": "typo3-cms-extension",
+	"license": "GPL-3.0-or-later",
+	"homepage": "https://www.datareporter.eu/produkte/webcare-datenschutzkonforme-website/",
+	"keywords": [
+		"gdpr",
+		"datareporter",
+		"webcare",
+		"cookie",
+		"privacy policy"
+	],
+	"authors": [
+		{
+			"name": "DataReporter GmbH",
+			"homepage": "https://www.datareporter.eu/",
+			"email": "office@datareporter.eu",
+			"role": "Owner"
+		},
+		{
+			"name": "Reelworx GmbH",
+			"role": "Developer",
+			"homepage": "https://reelworx.at/"
+		}
+	],
+	"readme": "README.md",
+	"require": {
+		"typo3/cms-core": "^8.7 || ^9.5"
+	}
+}

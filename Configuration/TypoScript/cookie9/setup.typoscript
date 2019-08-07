@@ -1,0 +1,12 @@
+
+page.includeCSS.cookieconsent = https://webcache.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/banner.css
+page.includeCSS.cookieconsent.external = 1
+page.includeJSFooter.cookieconsent = https://webcache.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/banner.js
+page.includeJSFooter.cookieconsent.external = 1
+page.jsFooterInline.865478 = TEXT
+page.jsFooterInline.865478.value = window.cookieconsent.initialise(dr_cookiebanner_options);
+
+["{$webcare.websiteId}" != ""]
+  page.includeCSS.cookieconsent = https://webcache.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/{$webcare.websiteId}/banner.css
+  page.includeJSFooter.cookieconsent = https://webcache.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/{$webcare.websiteId}/banner.js
+[GLOBAL]

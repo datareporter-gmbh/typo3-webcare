@@ -1,0 +1,25 @@
+mod.wizards {
+    newContentElement.wizardItems {
+        special {
+            elements {
+                privacy_statement {
+                    iconIdentifier = content-text
+                    title = LLL:EXT:webcare/Resources/Private/Language/locallang.xlf:privacy_statement_wizard_title
+                    description = LLL:EXT:webcare/Resources/Private/Language/locallang.xlf:privacy_statement_wizard_description
+                    tt_content_defValues {
+                        CType = privacy_statement
+                    }
+                }
+                imprint {
+                    iconIdentifier = content-text
+                    title = LLL:EXT:webcare/Resources/Private/Language/locallang.xlf:imprint_wizard_title
+                    description = LLL:EXT:webcare/Resources/Private/Language/locallang.xlf:imprint_wizard_description
+                    tt_content_defValues {
+                        CType = imprint
+                    }
+                }
+            }
+            show := addToList(privacy_statement,imprint)
+        }
+    }
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2018-07-27T10:11:03Z">
+		<header/>
+		<body>
+			<trans-unit id="privacyStatement">
+				<source>Privacy Statement from WebCare</source>
+				<target>Datenschutzrichtlinie von WebCare</target>
+			</trans-unit>
+			<trans-unit id="imprint">
+				<source>Imprint from WebCare</source>
+				<target>Impressum von WebCare</target>
+			</trans-unit>
+			<trans-unit id="tsconsteditor_webcare">
+				<source>WebCare</source>
+				<target>WebCare</target>
+			</trans-unit>
+			<trans-unit id="tsconsteditor_webcare_clientId">
+				<source>Your client ID</source>
+				<source>Ihre Kunden ID</source>
+			</trans-unit>
+			<trans-unit id="tsconsteditor_webcare_organizationId">
+				<source>Your organization ID</source>
+				<source>Ihre Organisations ID</source>
+			</trans-unit>
+			<trans-unit id="tsconsteditor_webcare_websiteId">
+				<source>The website ID (optional)</source>
+				<source>Die Website ID (optional)</source>
+			</trans-unit>
+			<trans-unit id="privacy_statement_wizard_title">
+				<source>Privacy Statement from WebCare</source>
+				<target>Datenschutzrichtlinie von WebCare</target>
+			</trans-unit>
+			<trans-unit id="privacy_statement_wizard_description">
+				<source>Lets you insert your privacy statement in this place.</source>
+				<target>Fügt Ihre Datenschutzrichtlinie an dieser Position ein.</target>
+			</trans-unit>
+			<trans-unit id="imprint_wizard_title">
+				<source>Imprint from WebCare</source>
+				<target>Impressum von WebCare</target>
+			</trans-unit>
+			<trans-unit id="imprint_wizard_description">
+				<source>Lets you insert your imprint in this place.</source>
+				<target>Fügt Ihr Impressum an dieser Position ein.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

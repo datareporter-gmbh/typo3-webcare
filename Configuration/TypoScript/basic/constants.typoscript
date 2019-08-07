@@ -1,0 +1,10 @@
+# customcategory=webcare=LLL:EXT:webcare/Resources/Private/Language/locallang.xlf:tsconsteditor_webcare
+
+webcare {
+  # cat=webcare/enable/a; type=string; label=LLL:EXT:webcare/Resources/Private/Language/locallang.xlf:tsconsteditor_webcare_clientId
+  clientId =
+  # cat=webcare/enable/b; type=string; label=LLL:EXT:webcare/Resources/Private/Language/locallang.xlf:tsconsteditor_webcare_organizationId
+  organizationId =
+  # cat=webcare/enable/c; type=string; label=LLL:EXT:webcare/Resources/Private/Language/locallang.xlf:tsconsteditor_webcare_websiteId
+  websiteId =
+}
