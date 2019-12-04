@@ -18,3 +18,6 @@
 *.sql text eol=lf
 *.t3s text eol=lf
 *.txt text eol=lf
+
+/.gitattributes export-ignore
+/.crowdin.yaml export-ignore
