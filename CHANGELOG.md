@@ -1,5 +1,9 @@
 # Change log
 
+## Version 1.1.2
+
+Adjusted the cookie consent JS inclusion to be a JS footer lib
+
 ## Version 1.1.1
 
 Excluded JS and CSS for cookie banner from concatenation by the Core
