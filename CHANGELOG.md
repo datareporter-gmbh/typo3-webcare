@@ -1,5 +1,9 @@
 # Change log
 
+## Version 1.1.3
+
+Cookie consent CSS and JS files are not excluded from compression as well
+
 ## Version 1.1.2
 
 Adjusted the cookie consent JS inclusion to be a JS footer lib
