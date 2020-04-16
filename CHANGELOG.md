@@ -1,5 +1,9 @@
 # Change log
 
+## Version 1.2.0
+
+Declare TYPO3 version 10 LTS compatibility
+
 ## Version 1.1.3
 
 Cookie consent CSS and JS files are not excluded from compression as well
