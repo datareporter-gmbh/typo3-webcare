@@ -7,4 +7,6 @@ webcare {
   organizationId =
   # cat=webcare/enable/c; type=string; label=LLL:EXT:webcare/Resources/Private/Language/locallang.xlf:tsconsteditor_webcare_websiteId
   websiteId =
+  # cat=webcare/enable/c; type=boolean; label=LLL:EXT:webcare/Resources/Private/Language/locallang.xlf:tsconsteditor_webcare_initializeCookieConsent
+  initializeCookieConsent = 1
 }

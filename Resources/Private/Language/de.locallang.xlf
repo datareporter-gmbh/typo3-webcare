@@ -1,47 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <xliff version="1.0" xmlns="urn:oasis:names:tc:xliff:document:1.1">
-	<file source-language="en" target-language="de" datatype="plaintext" original="EXT:webcare/Resources/Private/Language/locallang.xlf" date="2018-07-27T10:11:03Z" product-name="webcare">
-		<header/>
+	<file source-language="en" target-language="de" original="EXT:webcare/Resources/Private/Language/locallang.xlf" product-name="webcare" date="2020-05-14T11:48:56+02:00">
 		<body>
-			<trans-unit id="privacyStatement">
-				<source>Privacy Statement from WebCare</source>
-				<target>Datenschutzrichtlinie von WebCare</target>
-			</trans-unit>
-			<trans-unit id="imprint">
+			<trans-unit id="imprint" resname="imprint">
 				<source>Imprint from WebCare</source>
 				<target>Impressum von WebCare</target>
 			</trans-unit>
-			<trans-unit id="tsconsteditor_webcare">
-				<source>WebCare</source>
-				<target>WebCare</target>
+			<trans-unit id="imprint_wizard_description" resname="imprint_wizard_description">
+				<source>Lets you insert your imprint in this place.</source>
+				<target>Fügt Ihr Impressum an dieser Position ein.</target>
 			</trans-unit>
-			<trans-unit id="tsconsteditor_webcare_clientId">
-				<source>Your client ID</source>
-				<source>Ihre Kunden ID</source>
+			<trans-unit id="imprint_wizard_title" resname="imprint_wizard_title">
+				<source>Imprint from WebCare</source>
+				<target>Impressum von WebCare</target>
 			</trans-unit>
-			<trans-unit id="tsconsteditor_webcare_organizationId">
-				<source>Your organization ID</source>
-				<source>Ihre Organisations ID</source>
-			</trans-unit>
-			<trans-unit id="tsconsteditor_webcare_websiteId">
-				<source>The website ID (optional)</source>
-				<source>Die Website ID (optional)</source>
-			</trans-unit>
-			<trans-unit id="privacy_statement_wizard_title">
+			<trans-unit id="privacyStatement" resname="privacyStatement">
 				<source>Privacy Statement from WebCare</source>
 				<target>Datenschutzrichtlinie von WebCare</target>
 			</trans-unit>
-			<trans-unit id="privacy_statement_wizard_description">
+			<trans-unit id="privacy_statement_wizard_description" resname="privacy_statement_wizard_description">
 				<source>Lets you insert your privacy statement in this place.</source>
 				<target>Fügt Ihre Datenschutzrichtlinie an dieser Position ein.</target>
 			</trans-unit>
-			<trans-unit id="imprint_wizard_title">
-				<source>Imprint from WebCare</source>
-				<target>Impressum von WebCare</target>
+			<trans-unit id="privacy_statement_wizard_title" resname="privacy_statement_wizard_title">
+				<source>Privacy Statement from WebCare</source>
+				<target>Datenschutzrichtlinie von WebCare</target>
 			</trans-unit>
-			<trans-unit id="imprint_wizard_description">
-				<source>Lets you insert your imprint in this place.</source>
-				<target>Fügt Ihr Impressum an dieser Position ein.</target>
+			<trans-unit id="tsconsteditor_webcare" resname="tsconsteditor_webcare">
+				<source>WebCare</source>
+				<target>WebCare</target>
+			</trans-unit>
+			<trans-unit id="tsconsteditor_webcare_initializeCookieConsent" resname="tsconsteditor_webcare_initializeCookieConsent">
+				<source>Automatically enable cookie consent: You may disable this option to initialize the consent manually via JavaScript. [window.cookieconsent.initialise(dr_cookiebanner_options)]</source>
+				<target>Cookie Consent automatisch initialisieren: Diese Option kann deaktiviert werden, um den Consent manuell mit JavaScript zu initialisieren. [window.cookieconsent.initialise(dr_cookiebanner_options)]</target>
 			</trans-unit>
 		</body>
 	</file>

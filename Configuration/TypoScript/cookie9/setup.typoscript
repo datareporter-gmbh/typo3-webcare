@@ -7,10 +7,12 @@ page.includeJSFooterlibs.cookieconsent = https://webcache.datareporter.eu/c/{$we
 page.includeJSFooterlibs.cookieconsent.external = 1
 page.includeJSFooterlibs.cookieconsent.excludeFromConcatenation = 1
 page.includeJSFooterlibs.cookieconsent.disableCompression = 1
-page.jsFooterInline.865478 = TEXT
-page.jsFooterInline.865478.value = window.cookieconsent.initialise(dr_cookiebanner_options);
+["{$webcare.initializeCookieConsent}"]
+  page.jsFooterInline.865478 = TEXT
+  page.jsFooterInline.865478.value = window.cookieconsent.initialise(dr_cookiebanner_options);
+[end]
 
 ["{$webcare.websiteId}" != ""]
   page.includeCSS.cookieconsent = https://webcache.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/{$webcare.websiteId}/banner.css
   page.includeJSFooterlibs.cookieconsent = https://webcache.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/{$webcare.websiteId}/banner.js
-[GLOBAL]
+[end]
