@@ -1,5 +1,9 @@
 # Change log
 
+## Version 1.3.1
+
+Fixed banner JS inclusion for Core v8
+
 ## Version 1.3.0
 
 Added TypoScript constant to disable cookie consent initialization (webcare.initializeCookieConsent)
