@@ -1,5 +1,10 @@
 # Change log
 
+## Version 1.4.0
+
+Declare TYPO3 version 11 LTS compatibility \
+Fixed asset URL
+
 ## Version 1.3.1
 
 Fixed banner JS inclusion for Core v8
