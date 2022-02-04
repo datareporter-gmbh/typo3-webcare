@@ -1,9 +1,9 @@
 
-page.includeCSS.cookieconsent = https://webcache.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/banner.css
+page.includeCSS.cookieconsent = https://webcache-eu.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/banner.css
 page.includeCSS.cookieconsent.external = 1
 page.includeCSS.cookieconsent.excludeFromConcatenation = 1
 page.includeCSS.cookieconsent.disableCompression = 1
-page.includeJSFooterlibs.cookieconsent = https://webcache.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/banner.js
+page.includeJSFooterlibs.cookieconsent = https://webcache-eu.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/banner.js
 page.includeJSFooterlibs.cookieconsent.external = 1
 page.includeJSFooterlibs.cookieconsent.excludeFromConcatenation = 1
 page.includeJSFooterlibs.cookieconsent.disableCompression = 1
@@ -13,6 +13,6 @@ page.includeJSFooterlibs.cookieconsent.disableCompression = 1
 [end]
 
 [globalString = LIT:{$webcare.websiteId} = /.+/]
-  page.includeCSS.cookieconsent = https://webcache.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/{$webcare.websiteId}/banner.css
-  page.includeJSFooterlibs.cookieconsent = https://webcache.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/{$webcare.websiteId}/banner.js
+  page.includeCSS.cookieconsent = https://webcache-eu.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/{$webcare.websiteId}/banner.css
+  page.includeJSFooterlibs.cookieconsent = https://webcache-eu.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/{$webcare.websiteId}/banner.js
 [end]

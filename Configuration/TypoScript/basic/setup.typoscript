@@ -5,7 +5,7 @@ tt_content.privacy_statement.1 = COA
 tt_content.privacy_statement.1.wrap = <script src="|" charset="UTF-8"></script>
 tt_content.privacy_statement.1 {
   1 = TEXT
-  1.value = https://webcache.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/
+  1.value = https://webcache-eu.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/
   2 = TEXT
   2.value = {$webcare.websiteId}/
   2.if.value = {$webcare.websiteId}
@@ -18,7 +18,7 @@ tt_content.privacy_statement.2 = COA
 tt_content.privacy_statement.2.wrap = <noscript><iframe width="100%" frameborder="0" style="min-height:400px;" src="|"></iframe></noscript>
 tt_content.privacy_statement.2 {
   1 = TEXT
-  1.value = https://webcache.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/
+  1.value = https://webcache-eu.datareporter.eu/c/{$webcare.clientId}/{$webcare.organizationId}/
   2 = TEXT
   2.value = {$webcare.websiteId}/
   2.if.value = {$webcare.websiteId}
