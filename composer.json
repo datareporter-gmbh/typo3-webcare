@@ -26,6 +26,6 @@
 	],
 	"readme": "README.md",
 	"require": {
-		"typo3/cms-core": "^8.7 || ^9.5 || ^10.4"
+		"typo3/cms-core": "^8.7 || ^9.5 || ^10.4 || ^11.5"
 	}
 }
