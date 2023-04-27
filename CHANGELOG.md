@@ -1,5 +1,10 @@
 # Change log
 
+## Version 2.0.0
+
+Supported TYPO3 versions are now 10 LTS up to 12 LTS.
+The TypoScript templates are now merged into a single template.
+
 ## Version 1.4.0
 
 Declare TYPO3 version 11 LTS compatibility \
