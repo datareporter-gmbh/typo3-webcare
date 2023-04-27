@@ -3,7 +3,7 @@
 	"description": "Include the WebCare tools for GDPR compliance",
 	"type": "typo3-cms-extension",
 	"license": "GPL-3.0-or-later",
-	"homepage": "https://www.datareporter.eu/produkte/webcare-datenschutzkonforme-website/",
+	"homepage": "https://www.datareporter.eu/de/webcare.html",
 	"keywords": [
 		"gdpr",
 		"datareporter",
@@ -26,6 +26,7 @@
 	],
 	"readme": "README.md",
 	"require": {
-		"typo3/cms-core": "^8.7 || ^9.5 || ^10.4 || ^11.5"
+		"php": "^7.2 || ^8",
+		"typo3/cms-core": "^10.4 || ^11.5 || ^12.4"
 	}
 }
