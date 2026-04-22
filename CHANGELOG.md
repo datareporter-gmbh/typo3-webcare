@@ -1,5 +1,9 @@
 # Change log
 
+## Version 3.1.0
+
+Added support for TYPO3 v14.
+
 ## Version 3.0.0
 
 Supported TYPO3 versions are now 12 and 13 LTS.
