@@ -26,16 +26,16 @@
 	],
 	"readme": "README.md",
 	"require": {
-		"php": "^8.1",
-		"typo3/cms-core": "^12.4 || ^13.4 || ^14.3"
+		"php": "^8.2",
+		"typo3/cms-core": "^13.4 || ^14.3"
 	},
 	"extra": {
 		"branch-alias": {
-			"dev-master": "3.x-dev"
+			"dev-master": "4.x-dev"
 		},
 		"typo3/cms": {
 			"extension-key": "webcare",
-			"version": "3.1.0",
+			"version": "4.0.0",
 			"Package": {
 				"providesPackages": {}
 			}

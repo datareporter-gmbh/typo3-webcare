@@ -22,5 +22,5 @@ $newContentElements = [
 ];
 
 foreach ($newContentElements as $newContentElement) {
-    ExtensionManagementUtility::addTcaSelectItem('tt_content', 'CType', $newContentElement);
+    ExtensionManagementUtility::addRecordType($newContentElement, '');
 }

@@ -1,8 +1,9 @@
 # Change log
 
-## Version 3.1.0
+## Version 4.0.0
 
 Added support for TYPO3 v14.
+Dropped support for TYPO3 v12.
 
 ## Version 3.0.0
 
