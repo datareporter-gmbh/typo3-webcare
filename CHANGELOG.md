@@ -4,6 +4,7 @@
 
 Added support for TYPO3 v14.
 Dropped support for TYPO3 v12.
+Added site set.
 
 ## Version 3.0.0
 
