@@ -1,5 +1,9 @@
 # Change log
 
+## Version 4.0.1
+
+Fixed site set constants
+
 ## Version 4.0.0
 
 Added support for TYPO3 v14.
