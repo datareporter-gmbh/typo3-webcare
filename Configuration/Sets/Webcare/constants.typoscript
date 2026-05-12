@@ -1,1 +1,1 @@
-@import 'EXT:webcare/Configuration/TypoScript/basic/setup.typoscript'
+@import 'EXT:webcare/Configuration/TypoScript/basic/constants.typoscript'
